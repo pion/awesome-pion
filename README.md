@@ -6,6 +6,7 @@
   - [Community](#community)
   - [Examples](#examples)
   - [Tools](#tools)
+  - [Talsk](#talks)
 - [Projects Using Pion](#projects-using-pion)
   - [Media API](#media-api)
   - [DataChannel](#datachannel)
@@ -28,6 +29,14 @@
 ## Tools
 
 - [gavv/webrtc-cli](https://github.com/gavv/webrtc-cli)
+
+## Talks
+- [KrankyGeek 2019](https://www.youtube.com/watch?v=BYtNI4esj1I)
+- [Programming Throwdown](https://www.programmingthrowdown.com/2019/10/episode-95-webrtc-with-sean-dubois.html)
+- [GopherCon 2019](https://www.youtube.com/watch?v=Syt7TnikBfk)
+- [CommCon 2019](https://youtu.be/iEYLvkaNTLc?t=447)
+- [AllThingsRTC 2019](https://www.youtube.com/watch?v=THBgcbI--ck)
+- [Seattle Video Tech 2018](https://www.youtube.com/watch?v=ezZYd5NsxE4)
 
 # Projects Using Pion
 
