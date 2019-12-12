@@ -1,12 +1,34 @@
 # Awesome Pion [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of projects that use Pion
+> A curated list of awesome things related to Pion
 
-## Contents
+- [Resources](#resources)
+  - [Community](#community)
+  - [Examples](#examples)
+  - [Tools](#tools)
+- [Projects Using Pion](#projects-using-pion)
+  - [Media API](#media-api)
+  - [DataChannel](#datachannel)
 
-- [Media API](#media-api)
-- [DataChannel](#datachannel)
-- [Tools](#tools)
+# Resources
+
+## Community
+
+- [Official Api GoDoc](https://godoc.org/github.com/pion/webrtc)
+- [Official FAQ](https://github.com/pion/webrtc/wiki/FAQ)
+- [Official Slack Channel](https://invite.slack.golangbridge.org/)
+- [Official Mailing List](https://groups.google.com/forum/#!forum/pion)
+
+## Examples
+
+- [Official example applications](https://github.com/pion/webrtc/blob/master/examples/)
+- [Full featured examples that use 3rd party libraries](https://github.com/pion/example-webrtc-applications)
+
+## Tools
+
+- [gavv/webrtc-cli](https://github.com/gavv/webrtc-cli)
+
+# Projects Using Pion
 
 ## Media API
 
@@ -18,14 +40,11 @@
 - [nobonobo/ssh-p2p](https://github.com/nobonobo/ssh-p2p)
 - [cretz/webrtc-ipfs-signaling](https://github.com/cretz/webrtc-ipfs-signaling)
 
-## Tools
-- [gavv/webrtc-cli](https://github.com/gavv/webrtc-cli)
-
-## Contribute
+# Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
-## License
+# License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
 
