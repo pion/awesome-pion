@@ -10,6 +10,8 @@
 - [Projects Using Pion](#projects-using-pion)
   - [Media API](#media-api)
   - [DataChannel](#datachannel)
+- [Companies Using Pion](#companies-using-pion)
+
 
 # Resources
 
@@ -42,13 +44,42 @@
 
 ## Media API
 
+- [Ragnar-H/TelloGo](https://github.com/Ragnar-H/TelloGo)
+- [deepch/RTSPtoWebRTC](https://github.com/deepch/RTSPtoWebRTC)
+- [giongto35/cloud-game](https://github.com/giongto35/cloud-game)
+- [go-radio/go-radio](https://github.com/go-radio/go-radio)
+- [kdevb0x/quikface](https://github.com/kdevb0x/quikface)
 - [maxhawkins/asciirtc](https://github.com/maxhawkins/asciirtc)
+- [pion/ion](https://github.com/pion/ion)
+- [pion/rtwatch](https://github.com/pion/rtwatch)
+- [pion/webrtc-voicemail](https://github.com/pion/webrtc-voicemail)
+- [rviscarra/webrtc-remote-screen](https://github.com/rviscarra/webrtc-remote-screen)
+- [rviscarra/webrtc-speech-to-text](https://github.com/rviscarra/webrtc-speech-to-text)
+- [machinesworking/myhome](https://github.com/machinesworking/myhome)
+- [porjo/babelcast](https://github.com/porjo/babelcast)
+- [porjo/mumblet](https://github.com/porjo/mumblet)
 
 ## DataChannel
 
-- [decentraland/webrtc-broker](https://github.com/decentraland/webrtc-broker)
-- [nobonobo/ssh-p2p](https://github.com/nobonobo/ssh-p2p)
+- [Antonito/gfile](https://github.com/Antonito/gfile)
+- [adsisto/adsisto](https://github.com/adsisto/adsisto)
+- [ailabstw/webrtc-socket-proxy](https://github.com/ailabstw/webrtc-socket-proxy)
 - [cretz/webrtc-ipfs-signaling](https://github.com/cretz/webrtc-ipfs-signaling)
+- [decentraland/webrtc-broker](https://github.com/decentraland/webrtc-broker)
+- [keroserene/snowflake](https://github.com/keroserene/snowflake)
+- [libp2p/go-libp2p-webrtc-direct](https://github.com/libp2p/go-libp2p-webrtc-direct)
+- [maxmcd/webtty](https://github.com/maxmcd/webtty)
+- [mxseba/rtc-ssh](https://github.com/mxseba/rtc-ssh)
+- [nobonobo/ssh-p2p](https://github.com/nobonobo/ssh-p2p)
+- [peterq/pan-light](https://github.com/peterq/pan-light)
+- [rtctunnel/rtctunnel](https://github.com/rtctunnel/rtctunnel)
+- [takutakahashi/wg-connect](https://github.com/takutakahashi/wg-connect)
+
+# Companies Using Pion
+- [Strive](https://strivetech.io/p2p-sdk/)
+- [RingCentral](https://github.com/ringcentral/ringcentral-softphone-go)
+- [Mutagen](https://mutagen.io/)
+- [RemoteMonster](https://github.com/RemoteMonster/remon-obs-lib)
 
 # Contribute
 
