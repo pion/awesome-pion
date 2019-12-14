@@ -50,7 +50,7 @@
 - [go-radio/go-radio](https://github.com/go-radio/go-radio)
 - [kdevb0x/quikface](https://github.com/kdevb0x/quikface)
 - [machinesworking/myhome](https://github.com/machinesworking/myhome)
-- [maxhawkins/asciirtc](https://github.com/maxhawkins/asciirtc)
+- [dialup-inc/ascii](https://github.com/dialup-inc/ascii)
 - [pion/ion](https://github.com/pion/ion)
 - [pion/rtwatch](https://github.com/pion/rtwatch)
 - [pion/webrtc-voicemail](https://github.com/pion/webrtc-voicemail)
