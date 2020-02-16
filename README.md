@@ -83,6 +83,7 @@
 - [Mutagen](https://mutagen.io/)
 - [RemoteMonster](https://github.com/RemoteMonster/remon-obs-lib)
 - [0x](https://0x.org/)
+- [Decentraland](https://github.com/decentraland/communications-server-go)
 
 # Contribute
 
