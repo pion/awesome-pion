@@ -82,6 +82,7 @@
 - [RingCentral](https://github.com/ringcentral/ringcentral-softphone-go)
 - [Mutagen](https://mutagen.io/)
 - [RemoteMonster](https://github.com/RemoteMonster/remon-obs-lib)
+- [0x](https://0x.org/)
 
 # Contribute
 
