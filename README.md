@@ -76,6 +76,7 @@
 - [peterq/pan-light](https://github.com/peterq/pan-light)
 - [rtctunnel/rtctunnel](https://github.com/rtctunnel/rtctunnel)
 - [takutakahashi/wg-connect](https://github.com/takutakahashi/wg-connect)
+- [anacrolix/torrent](https://github.com/anacrolix/torrent/)
 
 # Companies Using Pion
 - [Strive](https://strivetech.io/p2p-sdk/)
