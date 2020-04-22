@@ -58,7 +58,7 @@
 - [porjo/mumblet](https://github.com/porjo/mumblet)
 - [rviscarra/webrtc-remote-screen](https://github.com/rviscarra/webrtc-remote-screen)
 - [rviscarra/webrtc-speech-to-text](https://github.com/rviscarra/webrtc-speech-to-text)
-- [~tslocum/harmony](https://git.sr.ht/~tslocum/harmony)
+- [~tslocum/harmony](https://gitlab.com/tslocum/harmony)
 - [nurdism/neko](https://github.com/nurdism/neko)
 - [fletcherist/webrtc-voice-chat](https://github.com/fletcherist/webtrc-voice-chat)
 
