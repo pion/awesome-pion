@@ -60,6 +60,7 @@
 - [rviscarra/webrtc-speech-to-text](https://github.com/rviscarra/webrtc-speech-to-text)
 - [~tslocum/harmony](https://git.sr.ht/~tslocum/harmony)
 - [nurdism/neko](https://github.com/nurdism/neko)
+- [fletcherist/webrtc-voice-chat](https://github.com/fletcherist/webtrc-voice-chat)
 
 ## DataChannel
 
