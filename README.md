@@ -6,7 +6,7 @@
   - [Community](#community)
   - [Examples](#examples)
   - [Tools](#tools)
-  - [Talsk](#talks)
+  - [Talks](#talks)
 - [Projects Using Pion](#projects-using-pion)
   - [Media API](#media-api)
   - [DataChannel](#datachannel)
