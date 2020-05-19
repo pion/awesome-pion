@@ -31,6 +31,7 @@
 ## Tools
 
 - [gavv/webrtc-cli](https://github.com/gavv/webrtc-cli)
+- [proemergotech/chrome-webrtc-packet-log-parser](https://github.com/proemergotech/chrome-webrtc-packet-log-parser)
 
 ## Talks
 - [Go Time Podcast](https://changelog.com/gotime/127)
