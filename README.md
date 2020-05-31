@@ -18,7 +18,7 @@
 ## Community
 
 - [Official Website](https://pion.ly)
-- [Official Api GoDoc](https://godoc.org/github.com/pion/webrtc)
+- [Official Api GoDoc](https://pkg.go.dev/github.com/pion/webrtc/v2?tab=doc)
 - [Official FAQ](https://github.com/pion/webrtc/wiki/FAQ)
 - [Official Slack Channel](https://invite.slack.golangbridge.org/)
 - [Official Mailing List](https://groups.google.com/forum/#!forum/pion)
