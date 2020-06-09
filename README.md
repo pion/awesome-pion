@@ -88,6 +88,7 @@
 - [anacrolix/torrent](https://github.com/anacrolix/torrent/)
 - [saljam/webwormhole](https://github.com/saljam/webwormhole)
 - [peer-calls/peer-calls](https://github.com/peer-calls/peer-calls) - a video conferencing solution. Version 4 ships with a complete server rewrite in Go. Chat messages and file sharing is powered by `pion/webrtc`'s DataChannel API when the SFU is enabled. See it live [here](https://peercalls.com/beta).
+- [mosaicnetworks/babble](https://github.com/mosaicnetworks/babble)
 
 # Companies Using Pion
 - [Strive](https://strivetech.io/p2p-sdk/)
@@ -97,6 +98,7 @@
 - [0x](https://0x.org/)
 - [Decentraland](https://github.com/decentraland/communications-server-go)
 - [Fox.ONE](https://github.com/fox-one/mornin.fm)
+- [Mosaic Networks](https://github.com/mosaicnetworks/babble)
 
 # Contribute
 
