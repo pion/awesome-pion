@@ -69,6 +69,9 @@
 - [oliverpool/tello-webrtc-fpv](https://github.com/oliverpool/tello-webrtc-fpv)
 - [peer-calls/peer-calls](https://github.com/peer-calls/peer-calls) - a video conferencing solution. Version 4 ships with a complete server rewrite in Go and the built-in Selective Forwarding Unit is powered by `pion/webrtc`'s Media API. See it live at [peercalls.com/beta](https://peercalls.com/beta).
 - [Unnamed SFU](https://www.irif.fr/~jch/software/sfu/)
+- [mzyy94/ns-remote](https://github.com/mzyy94/ns-remote)
+- [Monibuca/plugin-webrtc](https://github.com/Monibuca/plugin-webrtc)
+- [metaclips/LetsTalk](https://github.com/metaclips/LetsTalk)
 
 ## DataChannel
 
@@ -89,6 +92,14 @@
 - [saljam/webwormhole](https://github.com/saljam/webwormhole)
 - [peer-calls/peer-calls](https://github.com/peer-calls/peer-calls) - a video conferencing solution. Version 4 ships with a complete server rewrite in Go. Chat messages and file sharing is powered by `pion/webrtc`'s DataChannel API when the SFU is enabled. See it live [here](https://peercalls.com/beta).
 - [mosaicnetworks/babble](https://github.com/mosaicnetworks/babble)
+- [jsmouret/grpc-over-webrtc](https://github.com/jsmouret/grpc-over-webrtc)
+- [termbacktime/termbacktime](https://github.com/termbacktime/termbacktime)
+- [duality-solutions/web-bridge](https://github.com/duality-solutions/web-bridge)
+- [CortexFoundation/CortexTheseus](https://github.com/CortexFoundation/CortexTheseus)
+- [tmitchel/workspace-sync](https://github.com/tmitchel/workspace-sync)
+- [ClaytonMcCray/telective](https://github.com/ClaytonMcCray/telective)
+- [atotto/mibot](https://github.com/atotto/mibot)
+- [levpaul/gecserv](https://github.com/levpaul/gecserv)
 
 # Companies Using Pion
 - [Strive](https://strivetech.io/p2p-sdk/)
@@ -99,6 +110,8 @@
 - [Decentraland](https://github.com/decentraland/communications-server-go)
 - [Fox.ONE](https://github.com/fox-one/mornin.fm)
 - [Mosaic Networks](https://github.com/mosaicnetworks/babble)
+- [Cortex Labs](https://github.com/CortexFoundation/CortexTheseus)
+- [Duality Blockchain Solutions](https://github.com/duality-solutions/web-bridge)
 
 # Contribute
 
