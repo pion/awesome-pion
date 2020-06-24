@@ -73,6 +73,7 @@
 - [Monibuca/plugin-webrtc](https://github.com/Monibuca/plugin-webrtc)
 - [metaclips/LetsTalk](https://github.com/metaclips/LetsTalk)
 - [hakobera/go-ayame](https://github.com/hakobera/go-ayame)
+- [MixinNetwork/kraken](https://github.com/MixinNetwork/kraken)
 
 ## DataChannel
 
