@@ -34,6 +34,7 @@
 - [proemergotech/chrome-webrtc-packet-log-parser](https://github.com/proemergotech/chrome-webrtc-packet-log-parser)
 
 ## Talks
+- [CommCon 2020](https://www.youtube.com/watch?v=3fRw4uKakLM)
 - [Go Time Podcast](https://changelog.com/gotime/127)
 - [PNW Remote Go Meetup](https://www.youtube.com/watch?v=FdgoOrJH8ok&feature=youtu.be&t=989)
 - [WebRTC Live](https://vimeo.com/380076363)
