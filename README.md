@@ -10,6 +10,7 @@
 - [Projects Using Pion](#projects-using-pion)
   - [Media API](#media-api)
   - [DataChannel](#datachannel)
+  - [Other APIs](#other-apis)
 - [Companies Using Pion](#companies-using-pion)
 
 
@@ -105,6 +106,9 @@
 - [atotto/mibot](https://github.com/atotto/mibot)
 - [levpaul/gecserv](https://github.com/levpaul/gecserv)
 - [emiraganov/sharef](https://github.com/emiraganov/sharef)
+
+## Other APIs
+- [aler9/rtsp-simple-server](https://github.com/aler9/rtsp-simple-server)
 
 # Companies Using Pion
 - [Strive](https://strivetech.io/p2p-sdk/)
