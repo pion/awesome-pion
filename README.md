@@ -78,6 +78,7 @@
 - [MixinNetwork/kraken](https://github.com/MixinNetwork/kraken)
 - [pion/rtsp-bench](https://github.com/pion/rtsp-bench)
 - [screego](https://github.com/screego/server)
+- [Hexcord (mediaserver)](https://github.com/grantfayvor/hexcord-mediaserver) - a mediaserver for forwarding WebRTC streams to an RTMP endpoint using ffmpeg
 
 ## DataChannel
 
