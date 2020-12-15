@@ -53,7 +53,6 @@
 - [Ragnar-H/TelloGo](https://github.com/Ragnar-H/TelloGo)
 - [deepch/RTSPtoWebRTC](https://github.com/deepch/RTSPtoWebRTC)
 - [giongto35/cloud-game](https://github.com/giongto35/cloud-game)
-- [go-radio/go-radio](https://github.com/go-radio/go-radio)
 - [kdevb0x/quikface](https://github.com/kdevb0x/quikface)
 - [machinesworking/myhome](https://github.com/machinesworking/myhome)
 - [dialup-inc/ascii](https://github.com/dialup-inc/ascii)
