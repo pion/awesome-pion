@@ -69,7 +69,7 @@
 - [mornin.fm](https://github.com/fox-one/mornin.fm)
 - [oliverpool/tello-webrtc-fpv](https://github.com/oliverpool/tello-webrtc-fpv)
 - [peer-calls/peer-calls](https://github.com/peer-calls/peer-calls) - a video conferencing solution. Version 4 ships with a complete server rewrite in Go and the built-in Selective Forwarding Unit is powered by `pion/webrtc`'s Media API. See it live at [peercalls.com/beta](https://peercalls.com/beta).
-- [Unnamed SFU](https://www.irif.fr/~jch/software/sfu/)
+- [Galène](https://galene.org) videoconferencing server
 - [mzyy94/ns-remote](https://github.com/mzyy94/ns-remote)
 - [Monibuca/plugin-webrtc](https://github.com/Monibuca/plugin-webrtc)
 - [metaclips/LetsTalk](https://github.com/metaclips/LetsTalk)
