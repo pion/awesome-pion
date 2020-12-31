@@ -108,6 +108,7 @@
 - [atotto/mibot](https://github.com/atotto/mibot)
 - [levpaul/gecserv](https://github.com/levpaul/gecserv)
 - [emiraganov/sharef](https://github.com/emiraganov/sharef)
+- [muka/peerjs-go](https://github.com/muka/peerjs-go) - PeerJS port to Go. Enables simple p2p via HTTP comms between web browser and IoT apps.
 
 ## Other APIs
 - [aler9/rtsp-simple-server](https://github.com/aler9/rtsp-simple-server)
