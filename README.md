@@ -78,6 +78,7 @@
 - [pion/rtsp-bench](https://github.com/pion/rtsp-bench)
 - [screego](https://github.com/screego/server)
 - [Hexcord (mediaserver)](https://github.com/grantfayvor/hexcord-mediaserver) - a mediaserver for forwarding WebRTC streams to an RTMP endpoint using ffmpeg
+- [Kerberos.io](https://github.com/kerberos-io)
 
 ## DataChannel
 
@@ -122,6 +123,7 @@
 - [Mosaic Networks](https://github.com/mosaicnetworks/babble)
 - [Cortex Labs](https://github.com/CortexFoundation/CortexTheseus)
 - [Duality Blockchain Solutions](https://github.com/duality-solutions/web-bridge)
+- [Kerberos.io](https://github.com/kerberos-io)
 
 # Contribute
 
