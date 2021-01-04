@@ -79,6 +79,12 @@
 - [screego](https://github.com/screego/server)
 - [Hexcord (mediaserver)](https://github.com/grantfayvor/hexcord-mediaserver) - a mediaserver for forwarding WebRTC streams to an RTMP endpoint using ffmpeg
 - [Kerberos.io](https://github.com/kerberos-io)
+- [GRVYDEV/Project-Lightspeed](https://github.com/GRVYDEV/Project-Lightspeed)
+- [giongto35/cloud-morph](https://github.com/giongto35/cloud-morph)
+- [ReolinkCameraAPI/reolinkapigo](https://github.com/ReolinkCameraAPI/reolinkapigo)
+- [ahamlinman/hypcast](https://github.com/ahamlinman/hypcast)
+- [sean-der/rtmp-to-webrtc](github.com/sean-der/rtmp-to-webrtc)
+- [zyberzero/secure-videoconference](https://github.com/zyberzero/secure-videoconference)
 
 ## DataChannel
 
@@ -109,6 +115,8 @@
 - [levpaul/gecserv](https://github.com/levpaul/gecserv)
 - [emiraganov/sharef](https://github.com/emiraganov/sharef)
 - [muka/peerjs-go](https://github.com/muka/peerjs-go) - PeerJS port to Go. Enables simple p2p via HTTP comms between web browser and IoT apps.
+- [mxseba/rtc-terminal](github.com/mxseba/rtc-terminal)
+- [snaka/go-whatsmyip](github.com/snaka/go-whatsmyip)
 
 ## Other APIs
 - [aler9/rtsp-simple-server](https://github.com/aler9/rtsp-simple-server)
