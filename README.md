@@ -86,7 +86,7 @@
 - [sean-der/rtmp-to-webrtc](https://github.com/sean-der/rtmp-to-webrtc)
 - [zyberzero/secure-videoconference](https://github.com/zyberzero/secure-videoconference)
 - [sethkimmel3/roundtable.audio](https://github.com/sethkimmel3/roundtable.audio)
-- [golivex/actions](https://github.com/golivex/actions) - useful utilites with ion-sdk-go
+- [manishiitg/ion-sfu-actions](https://github.com/manishiitg/ion-sfu-actions) - useful utilites with ion-sdk-go on ion-sfu
 
 ## DataChannel
 
