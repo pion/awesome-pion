@@ -87,6 +87,7 @@
 - [zyberzero/secure-videoconference](https://github.com/zyberzero/secure-videoconference)
 - [sethkimmel3/roundtable.audio](https://github.com/sethkimmel3/roundtable.audio)
 - [manishiitg/ion-sfu-actions](https://github.com/manishiitg/ion-sfu-actions) - useful utilites with ion-sdk-go on ion-sfu
+- [livekit/livekit-server](https://github.com/livekit/livekit-server) - scalable WebRTC SFU with native clients
 
 ## DataChannel
 
@@ -135,6 +136,7 @@
 - [Cortex Labs](https://github.com/CortexFoundation/CortexTheseus)
 - [Duality Blockchain Solutions](https://github.com/duality-solutions/web-bridge)
 - [Kerberos.io](https://github.com/kerberos-io)
+- [LiveKit](https://livekit.io)
 
 # Contribute
 
