@@ -123,6 +123,7 @@
 
 ## Other APIs
 - [aler9/rtsp-simple-server](https://github.com/aler9/rtsp-simple-server)
+- [wiretrustee/wiretrustee](https://github.com/wiretrustee/wiretrustee) - a Wireguard-based VPN which transports datagrams over an `pion/ice` connection.
 
 # Companies Using Pion
 - [Strive](https://strivetech.io/p2p-sdk/)
