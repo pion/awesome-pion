@@ -137,6 +137,7 @@
 - [Duality Blockchain Solutions](https://github.com/duality-solutions/web-bridge)
 - [Kerberos.io](https://github.com/kerberos-io)
 - [LiveKit](https://livekit.io)
+- [Yous](https://yous.ai/)
 
 # Contribute
 
