@@ -88,6 +88,7 @@
 - [sethkimmel3/roundtable.audio](https://github.com/sethkimmel3/roundtable.audio)
 - [manishiitg/ion-sfu-actions](https://github.com/manishiitg/ion-sfu-actions) - useful utilites with ion-sdk-go on ion-sfu
 - [livekit/livekit-server](https://github.com/livekit/livekit-server) - scalable WebRTC SFU with native clients
+- [roboportal](https://github.com/roboportal) - customizable robot control with onboard video streaming
 
 ## DataChannel
 
