@@ -5,6 +5,7 @@
 - [Resources](#resources)
   - [Community](#community)
   - [Examples](#examples)
+  - [Deployments](#deployments)
   - [Tools](#tools)
   - [Talks](#talks)
 - [Projects Using Pion](#projects-using-pion)
@@ -28,6 +29,10 @@
 
 - [Official example applications](https://github.com/pion/webrtc/blob/master/examples/)
 - [Full featured examples that use 3rd party libraries](https://github.com/pion/example-webrtc-applications)
+
+## Deployments
+
+- [ion-sfu](https://github.com/snapp-incubator/webrtc-charts/tree/main/charts/ion-sfu)
 
 ## Tools
 
@@ -90,6 +95,7 @@
 - [manishiitg/ion-sfu-actions](https://github.com/manishiitg/ion-sfu-actions) - useful utilites with ion-sdk-go on ion-sfu
 - [livekit/livekit-server](https://github.com/livekit/livekit-server) - scalable WebRTC SFU with native clients
 - [roboportal](https://github.com/roboportal) - customizable robot control with onboard video streaming
+- [snapp-incubator/ghodrat](https://github.com/snapp-incubator/ghodrat) - WebRTC media server stress testing tool
 
 ## DataChannel
 
@@ -128,6 +134,7 @@
 - [wiretrustee/wiretrustee](https://github.com/wiretrustee/wiretrustee) - a Wireguard-based VPN which transports datagrams over an `pion/ice` connection.
 
 # Companies Using Pion
+- [snapp!](https://github.com/snapp-incubator)
 - [0x](https://0x.org/)
 - [Cortex Labs](https://github.com/CortexFoundation/CortexTheseus)
 - [Decentraland](https://github.com/decentraland/communications-server-go)
