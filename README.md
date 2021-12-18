@@ -146,6 +146,7 @@
 - [LiveKit](https://livekit.io)
 - [Mosaic Networks](https://github.com/mosaicnetworks/babble)
 - [Mutagen](https://mutagen.io/)
+- [Muxable](https://muxable.com/)
 - [Neverinstall](https://neverinstall.com)
 - [Piepacker](https://piepacker.com)
 - [RemoteMonster](https://github.com/RemoteMonster/remon-obs-lib)
