@@ -128,6 +128,7 @@
 - [muka/peerjs-go](https://github.com/muka/peerjs-go) - PeerJS port to Go. Enables simple p2p via HTTP comms between web browser and IoT apps.
 - [mxseba/rtc-terminal](https://github.com/mxseba/rtc-terminal)
 - [snaka/go-whatsmyip](https://github.com/snaka/go-whatsmyip)
+- [tuzig/webexec](https://github.com/tuzig/webexec)
 
 ## Other APIs
 - [aler9/rtsp-simple-server](https://github.com/aler9/rtsp-simple-server)
