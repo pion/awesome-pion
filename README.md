@@ -96,6 +96,7 @@
 - [livekit/livekit-server](https://github.com/livekit/livekit-server) - scalable WebRTC SFU with native clients
 - [roboportal](https://github.com/roboportal) - customizable robot control with onboard video streaming
 - [snapp-incubator/ghodrat](https://github.com/snapp-incubator/ghodrat) - WebRTC media server stress testing tool
+- [Bonfire](https://github.com/kisasexypantera94/bonfire) - video conferences with server-side audiomixing and videoscaling on demand
 
 ## DataChannel
 
