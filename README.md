@@ -55,17 +55,17 @@
 
 ## Media API
 
-- [ashellunts/ffmpeg-to-webrtc](https://github.com/ashellunts/ffmpeg-to-webrtc) - Stream video from ffmpeg to web(rtc) 
+- [ashellunts/ffmpeg-to-webrtc](https://github.com/ashellunts/ffmpeg-to-webrtc) - Stream video from ffmpeg to web(rtc)
 - [Ragnar-H/TelloGo](https://github.com/Ragnar-H/TelloGo) - Tello on the web via WebRTC
-- [deepch/RTSPtoWebRTC](https://github.com/deepch/RTSPtoWebRTC) - RTSP to WebRTC using Pion WebRTC 
-- [giongto35/cloud-game](https://github.com/giongto35/cloud-game) - Web-based Cloud Gaming service for Retro Games 
+- [deepch/RTSPtoWebRTC](https://github.com/deepch/RTSPtoWebRTC) - RTSP to WebRTC using Pion WebRTC
+- [giongto35/cloud-game](https://github.com/giongto35/cloud-game) - Web-based Cloud Gaming service for Retro Games
 - [kdevb0x/quikface](https://github.com/kdevb0x/quikface) - Cross platform video chat
 - [machinesworking/myhome](https://github.com/machinesworking/myhome) - Home grown security system
 - [dialup-inc/ascii](https://github.com/dialup-inc/ascii) - ASCII Roulette :: ascii art video chat on the cli
 - [pion/ion](https://github.com/pion/ion) - Real-Distributed RTC System with pure Go and Flutter
 - [pion/rtwatch](https://github.com/pion/rtwatch) - Watch videos with friends using WebRTC
-- [pion/webrtc-voicemail](https://github.com/pion/webrtc-voicemail) - Create voicemails via WebRTC and Transcribe them. 
-- [porjo/babelcast](https://github.com/porjo/babelcast) - A WebRTC audio broadcast server 
+- [pion/webrtc-voicemail](https://github.com/pion/webrtc-voicemail) - Create voicemails via WebRTC and Transcribe them.
+- [porjo/babelcast](https://github.com/porjo/babelcast) - A WebRTC audio broadcast server
 - [porjo/mumblet](https://github.com/porjo/mumblet) - Web-based Mumble client
 - [rviscarra/webrtc-remote-screen](https://github.com/rviscarra/webrtc-remote-screen) - Stream a remote desktop screen directly to your browser
 - [rviscarra/webrtc-speech-to-text](https://github.com/rviscarra/webrtc-speech-to-text) - Speech transcription on the browser using WebRTC and Google Speech
@@ -96,11 +96,12 @@
 - [roboportal](https://github.com/roboportal) - Customizable robot control with onboard video streaming
 - [snapp-incubator/ghodrat](https://github.com/snapp-incubator/ghodrat) - WebRTC media server stress testing tool
 - [Bonfire](https://github.com/kisasexypantera94/bonfire) - Video conferences with server-side audiomixing and videoscaling on demand
+- [sean-der/pion-ulaw-player](https://github.com/sean-der/pion-ulaw-player) - Send ulaw encoded audio from Pion to a WebRTC client in the browser
 
 ## DataChannel
 
 - [Antonito/gfile](https://github.com/Antonito/gfile) - Direct file transfer over WebRTC
-- [ailabstw/webrtc-socket-proxy](https://github.com/ailabstw/webrtc-socket-proxy) - Peer-to-peer TCP socket proxy using WebRTC 
+- [ailabstw/webrtc-socket-proxy](https://github.com/ailabstw/webrtc-socket-proxy) - Peer-to-peer TCP socket proxy using WebRTC
 - [cretz/webrtc-ipfs-signaling](https://github.com/cretz/webrtc-ipfs-signaling) - Tech demo using JS-IPFS to do signaling for WebRTC
 - [decentraland/webrtc-broker](https://github.com/decentraland/webrtc-broker) - WebRTC message broker
 - [keroserene/snowflake](https://github.com/keroserene/snowflake) - Pluggable Transport using WebRTC
@@ -117,16 +118,17 @@
 - [mosaicnetworks/babble](https://github.com/mosaicnetworks/babble) - Distributed Consensus Middleware
 - [jsmouret/grpc-over-webrtc](https://github.com/jsmouret/grpc-over-webrtc) - gRPC over WebRTC
 - [termbacktime/termbacktime](https://github.com/termbacktime/termbacktime) - Terminal recording and playback
-- [duality-solutions/web-bridge](https://github.com/duality-solutions/web-bridge) - Connecting HTTP servers and clients on disparate networks using WebRTC and blockchain signaling 
+- [duality-solutions/web-bridge](https://github.com/duality-solutions/web-bridge) - Connecting HTTP servers and clients on disparate networks using WebRTC and blockchain signaling
 - [CortexFoundation/CortexTheseus](https://github.com/CortexFoundation/CortexTheseus) - AI on Blockchain, Official Golang implementation
 - [tmitchel/workspace-sync](https://github.com/tmitchel/workspace-sync) - Tool that allows you to write code in one place and automatically keep a remote copy of the code in sync
 - [atotto/mibot](https://github.com/atotto/mibot) - Home Rover Robot control
 - [levpaul/gecserv](https://github.com/levpaul/gecserv) - UDP game server for an action MMO
 - [emiraganov/sharef](https://github.com/emiraganov/sharef) - Sharef command line tool for sending streaming files
 - [muka/peerjs-go](https://github.com/muka/peerjs-go) - PeerJS port to Go. Enables simple p2p via HTTP comms between web browser and IoT apps.
-- [mxseba/rtc-terminal](https://github.com/mxseba/rtc-terminal) - SSH client (CLI) terminal over WebRTC 
+- [mxseba/rtc-terminal](https://github.com/mxseba/rtc-terminal) - SSH client (CLI) terminal over WebRTC
 - [snaka/go-whatsmyip](https://github.com/snaka/go-whatsmyip) - Discover your public IP address
 - [tuzig/webexec](https://github.com/tuzig/webexec) - WebRTC server for executing command over pseudo tty and piping it’s stdin & out over data channels
+- [sean-der/pion-webrtc-shared-socket](https://github.com/Sean-Der/pion-webrtc-shared-socket) - Use Pion WebRTC with a shared socket. Allows non-WebRTC and WebRTC over the same socket.
 
 ## Other APIs
 - [aler9/rtsp-simple-server](https://github.com/aler9/rtsp-simple-server) - Ready-to-use RTSP / RTMP / LL-HLS server and proxy that allows to read, publish and proxy video and audio streams
