@@ -129,6 +129,7 @@
 - [snaka/go-whatsmyip](https://github.com/snaka/go-whatsmyip) - Discover your public IP address
 - [tuzig/webexec](https://github.com/tuzig/webexec) - WebRTC server for executing command over pseudo tty and piping it’s stdin & out over data channels
 - [sean-der/pion-webrtc-shared-socket](https://github.com/Sean-Der/pion-webrtc-shared-socket) - Use Pion WebRTC with a shared socket. Allows non-WebRTC and WebRTC over the same socket.
+- [szpnygo/gtc](https://github.com/szpnygo/gtc) - gtc is a terminal chat app, using pion WebRTC datachannel.
 
 ## Other APIs
 - [aler9/rtsp-simple-server](https://github.com/aler9/rtsp-simple-server) - Ready-to-use RTSP / RTMP / LL-HLS server and proxy that allows to read, publish and proxy video and audio streams
