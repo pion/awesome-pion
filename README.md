@@ -133,7 +133,8 @@
 
 ## Other APIs
 - [aler9/rtsp-simple-server](https://github.com/aler9/rtsp-simple-server) - Ready-to-use RTSP / RTMP / LL-HLS server and proxy that allows to read, publish and proxy video and audio streams
-- [wiretrustee/wiretrustee](https://github.com/wiretrustee/wiretrustee) - A Wireguard-based VPN which transports datagrams over an `pion/ice` connection.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - A Wireguard-based VPN which transports datagrams over an `pion/ice` connection.
+- [stv0g/cunicu](https://github.com/stv0g/cunicu) - Another Wireguard-based VPN which transports datagrams over an `pion/ice` connection.
 - [l7mp/stunner](https://github.com/l7mp/stunner) - A Kubernetes ingress gateway for WebRTC.
 
 # Companies Using Pion
