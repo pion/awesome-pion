@@ -151,6 +151,7 @@
 - [LiveKit](https://livekit.io)
 - [Mosaic Networks](https://github.com/mosaicnetworks/babble)
 - [Mutagen](https://mutagen.io/)
+- [Mux](https://www.mux.com/)
 - [Muxable](https://muxable.com/)
 - [Neverinstall](https://neverinstall.com)
 - [Piepacker](https://piepacker.com)
