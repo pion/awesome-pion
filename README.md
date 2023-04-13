@@ -95,7 +95,6 @@
 - [livekit/livekit-server](https://github.com/livekit/livekit-server) - Scalable WebRTC SFU with native clients
 - [roboportal](https://github.com/roboportal) - Customizable robot control with onboard video streaming
 - [snapp-incubator/ghodrat](https://github.com/snapp-incubator/ghodrat) - WebRTC media server stress testing tool
-- [Bonfire](https://github.com/kisasexypantera94/bonfire) - Video conferences with server-side audiomixing and videoscaling on demand
 - [sean-der/pion-ulaw-player](https://github.com/sean-der/pion-ulaw-player) - Send ulaw encoded audio from Pion to a WebRTC client in the browser
 
 ## DataChannel
@@ -107,7 +106,6 @@
 - [keroserene/snowflake](https://github.com/keroserene/snowflake) - Pluggable Transport using WebRTC
 - [libp2p/go-libp2p-webrtc-direct](https://github.com/libp2p/go-libp2p-webrtc-direct) - Browser-to-server, and server-to-server, direct communication over WebRTC without requiring signalling servers
 - [maxmcd/webtty](https://github.com/maxmcd/webtty) - Share a terminal session over WebRTC
-- [mxseba/rtc-ssh](https://github.com/mxseba/rtc-ssh) - WebRTC wrapper for SSH connect
 - [nobonobo/ssh-p2p](https://github.com/nobonobo/ssh-p2p) - SSH p2p tunneling server and client
 - [peterq/pan-light](https://github.com/peterq/pan-light) - Network disk client
 - [rtctunnel/rtctunnel](https://github.com/rtctunnel/rtctunnel) - Network tunnels over WebRTC
@@ -125,7 +123,6 @@
 - [levpaul/gecserv](https://github.com/levpaul/gecserv) - UDP game server for an action MMO
 - [emiraganov/sharef](https://github.com/emiraganov/sharef) - Sharef command line tool for sending streaming files
 - [muka/peerjs-go](https://github.com/muka/peerjs-go) - PeerJS port to Go. Enables simple p2p via HTTP comms between web browser and IoT apps.
-- [mxseba/rtc-terminal](https://github.com/mxseba/rtc-terminal) - SSH client (CLI) terminal over WebRTC
 - [snaka/go-whatsmyip](https://github.com/snaka/go-whatsmyip) - Discover your public IP address
 - [tuzig/webexec](https://github.com/tuzig/webexec) - WebRTC server for executing command over pseudo tty and piping it’s stdin & out over data channels
 - [sean-der/pion-webrtc-shared-socket](https://github.com/Sean-Der/pion-webrtc-shared-socket) - Use Pion WebRTC with a shared socket. Allows non-WebRTC and WebRTC over the same socket.
@@ -150,13 +147,11 @@
 - [L7mp Technologies](https://l7mp.io)
 - [LiveKit](https://livekit.io)
 - [Mosaic Networks](https://github.com/mosaicnetworks/babble)
-- [Mutagen](https://mutagen.io/)
 - [Muxable](https://muxable.com/)
 - [Neverinstall](https://neverinstall.com)
 - [Piepacker](https://piepacker.com)
 - [RemoteMonster](https://github.com/RemoteMonster/remon-obs-lib)
 - [RingCentral](https://github.com/ringcentral/ringcentral-softphone-go)
-- [Strivecast](https://strivecast.com/p2p-sdk/)
 - [Tandem](https://tandem.chat)
 - [Yous](https://yous.ai/)
 - [100ms](https://www.100ms.live/)
