@@ -1,0 +1,11 @@
+name: 'Check Awesome Pion Links'
+on:
+  pull_request:
+jobs:
+  checklinks:
+    runs-on: ubuntu-22.04
+    steps:
+    - name: Checkout Awesome Pion
+      uses: actions/checkout@v3
+    - name: Check link validity
+      run: ./check.sh
