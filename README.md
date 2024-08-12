@@ -144,7 +144,6 @@
 - [Decentraland](https://github.com/decentraland/communications-server-go)
 - [Duality Blockchain Solutions](https://github.com/duality-solutions/web-bridge)
 - [Fox.ONE](https://github.com/fox-one/mornin.fm)
-- [Headroom](https://www.goheadroom.com)
 - [InterPlanetary File System](https://ipfs.io)
 - [Kerberos.io](https://github.com/kerberos-io)
 - [L7mp Technologies](https://l7mp.io)
