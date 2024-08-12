@@ -45,7 +45,7 @@
 - [PNW Remote Go Meetup](https://www.youtube.com/watch?v=FdgoOrJH8ok&feature=youtu.be&t=989)
 - [WebRTC Live](https://vimeo.com/380076363)
 - [KrankyGeek 2019](https://www.youtube.com/watch?v=BYtNI4esj1I)
-- [Programming Throwdown](https://www.programmingthrowdown.com/2019/10/episode-95-webrtc-with-sean-dubois.html)
+- [Programming Throwdown](https://www.programmingthrowdown.com/episodes/episode-95-webrtc-with-sean-dubois/)
 - [GopherCon 2019](https://www.youtube.com/watch?v=Syt7TnikBfk)
 - [CommCon 2019](https://youtu.be/iEYLvkaNTLc?t=447)
 - [AllThingsRTC 2019](https://www.youtube.com/watch?v=THBgcbI--ck)
