@@ -55,6 +55,7 @@
 
 ## Media API
 
+- [adalkiran/distributed-inference](https://github.com/adalkiran/distributed-inference) - cross-language and distributed pipeline in deep learning/machine learning domain, using WebRTC and Redis Streams
 - [glimesh/broadcast-box](https://github.com/glimesh/broadcast-box) - Broadcast in sub-second time from OBS or your browser
 - [ashellunts/ffmpeg-to-webrtc](https://github.com/ashellunts/ffmpeg-to-webrtc) - Stream video from ffmpeg to web(rtc)
 - [Ragnar-H/TelloGo](https://github.com/Ragnar-H/TelloGo) - Tello on the web via WebRTC
@@ -101,6 +102,8 @@
 
 ## DataChannel
 
+- [raphadam/pleer](https://github.com/raphadam/pleer) - Securely forward local ports over the internet using WebRTC
+- [6b70/peerbeam](https://github.com/6b70/peerbeam) - Fast and secure p2p file transfer powered by WebRTC 🚀
 - [Antonito/gfile](https://github.com/Antonito/gfile) - Direct file transfer over WebRTC
 - [ailabstw/webrtc-socket-proxy](https://github.com/ailabstw/webrtc-socket-proxy) - Peer-to-peer TCP socket proxy using WebRTC
 - [cretz/webrtc-ipfs-signaling](https://github.com/cretz/webrtc-ipfs-signaling) - Tech demo using JS-IPFS to do signaling for WebRTC
@@ -136,6 +139,7 @@
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - A Wireguard-based VPN which transports datagrams over an `pion/ice` connection.
 - [stv0g/cunicu](https://github.com/stv0g/cunicu) - Another Wireguard-based VPN which transports datagrams over an `pion/ice` connection.
 - [l7mp/stunner](https://github.com/l7mp/stunner) - A Kubernetes ingress gateway for WebRTC.
+- [everycastlabs/iceperf-agent](https://github.com/everycastlabs/iceperf-agent) - test and compare the performance of TURN networks
 
 # Companies Using Pion
 - [snapp!](https://github.com/snapp-incubator)
