@@ -72,7 +72,7 @@
 - [rviscarra/webrtc-remote-screen](https://github.com/rviscarra/webrtc-remote-screen) - Stream a remote desktop screen directly to your browser
 - [rviscarra/webrtc-speech-to-text](https://github.com/rviscarra/webrtc-speech-to-text) - Speech transcription on the browser using WebRTC and Google Speech
 - [~tslocum/harmony](https://gitlab.com/tslocum/harmony) - Voice and text communications platform
-- [nurdism/neko](https://github.com/nurdism/neko) - A self hosted virtual browser (rabb.it clone) that runs in docker.
+- [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser (rabb.it clone) that runs in docker.
 - [fletcherist/webrtc-voice-chat](https://github.com/fletcherist/webtrc-voice-chat) - Group voice chat
 - [mornin.fm](https://github.com/fox-one/mornin.fm) - Instant audio conferencing service
 - [oliverpool/tello-webrtc-fpv](https://github.com/oliverpool/tello-webrtc-fpv) - Tello drone control using WebRTC
@@ -103,7 +103,7 @@
 ## DataChannel
 
 - [raphadam/pleer](https://github.com/raphadam/pleer) - Securely forward local ports over the internet using WebRTC
-- [6b70/peerbeam](https://github.com/6b70/peerbeam) - Fast and secure p2p file transfer powered by WebRTC 🚀
+- [krisapa/peerbeam](https://github.com/krisapa/peerbeam) - Fast and secure p2p file transfer powered by WebRTC 🚀
 - [Antonito/gfile](https://github.com/Antonito/gfile) - Direct file transfer over WebRTC
 - [ailabstw/webrtc-socket-proxy](https://github.com/ailabstw/webrtc-socket-proxy) - Peer-to-peer TCP socket proxy using WebRTC
 - [cretz/webrtc-ipfs-signaling](https://github.com/cretz/webrtc-ipfs-signaling) - Tech demo using JS-IPFS to do signaling for WebRTC
@@ -132,7 +132,7 @@
 - [tuzig/webexec](https://github.com/tuzig/webexec) - WebRTC server for executing command over pseudo tty and piping it’s stdin & out over data channels
 - [sean-der/pion-webrtc-shared-socket](https://github.com/Sean-Der/pion-webrtc-shared-socket) - Use Pion WebRTC with a shared socket. Allows non-WebRTC and WebRTC over the same socket.
 - [szpnygo/gtc](https://github.com/szpnygo/gtc) - gtc is a terminal chat app, using pion WebRTC datachannel.
-- [PiterWeb/RemoteController](https://github.com/PiterWeb/RemoteController) - Steam RemotePlay Alternative powered by P2P and the Web
+- [PiterWeb/LibreRemotePlay](https://github.com/PiterWeb/LibreRemotePlay) - Steam RemotePlay Alternative powered by P2P and the Web
 
 ## Other APIs
 - [aler9/rtsp-simple-server](https://github.com/aler9/rtsp-simple-server) - Ready-to-use RTSP / RTMP / LL-HLS server and proxy that allows to read, publish and proxy video and audio streams
