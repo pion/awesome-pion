@@ -79,7 +79,7 @@
 - [Monibuca/plugin-webrtc](https://github.com/Monibuca/plugin-webrtc) - WebRTC plugin for Monibuca
 - [mornin.fm](https://github.com/fox-one/mornin.fm) - Instant audio conferencing service
 - [mzyy94/ns-remote](https://github.com/mzyy94/ns-remote) - Play Nintendo Switch anyware
-- [nurdism/neko](https://github.com/nurdism/neko) - A self hosted virtual browser (rabb.it clone) that runs in docker.
+- [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser (rabb.it clone) that runs in docker.
 - [oliverpool/tello-webrtc-fpv](https://github.com/oliverpool/tello-webrtc-fpv) - Tello drone control using WebRTC
 - [peer-calls/peer-calls](https://github.com/peer-calls/peer-calls) - a video conferencing solution. Version 4 ships with a complete server rewrite in Go and the built-in Selective Forwarding Unit is powered by `pion/webrtc`'s Media API. See it live at [peercalls.com/beta](https://peercalls.com/beta).
 - [pion/ion](https://github.com/pion/ion) - Real-Distributed RTC System with pure Go and Flutter
@@ -103,7 +103,7 @@
 
 ## DataChannel
 
-- [6b70/peerbeam](https://github.com/6b70/peerbeam) - Fast and secure p2p file transfer powered by WebRTC 🚀
+- [krisapa/peerbeam](https://github.com/krisapa/peerbeam) - Fast and secure p2p file transfer powered by WebRTC 🚀
 - [ailabstw/webrtc-socket-proxy](https://github.com/ailabstw/webrtc-socket-proxy) - Peer-to-peer TCP socket proxy using WebRTC
 - [anacrolix/torrent](https://github.com/anacrolix/torrent/) - Full-featured BitTorrent client package and utilities
 - [Antonito/gfile](https://github.com/Antonito/gfile) - Direct file transfer over WebRTC
@@ -122,7 +122,7 @@
 - [nobonobo/ssh-p2p](https://github.com/nobonobo/ssh-p2p) - SSH p2p tunneling server and client
 - [peer-calls/peer-calls](https://github.com/peer-calls/peer-calls) - Video conferencing solution. Version 4 ships with a complete server rewrite in Go. Chat messages and file sharing is powered by `pion/webrtc`'s DataChannel API when the SFU is enabled. See it live [here](https://peercalls.com/beta).
 - [peterq/pan-light](https://github.com/peterq/pan-light) - Network disk client
-- [PiterWeb/RemoteController](https://github.com/PiterWeb/RemoteController) - Steam RemotePlay Alternative powered by P2P and the Web
+- [PiterWeb/LibreRemotePlay](https://github.com/PiterWeb/LibreRemotePlay) - Steam RemotePlay Alternative powered by P2P and the Web
 - [rtctunnel/rtctunnel](https://github.com/rtctunnel/rtctunnel) - Network tunnels over WebRTC
 - [saljam/webwormhole](https://github.com/saljam/webwormhole) - Peer authenticated WebRTC
 - [sean-der/pion-webrtc-shared-socket](https://github.com/Sean-Der/pion-webrtc-shared-socket) - Use Pion WebRTC with a shared socket. Allows non-WebRTC and WebRTC over the same socket.
