@@ -19,10 +19,10 @@
 
 ## Community
 
-- [Official Api GoDoc](https://pkg.go.dev/github.com/pion/webrtc/v3)
+- [Official Api GoDoc](https://pkg.go.dev/github.com/pion/webrtc/v4)
+- [Official Discord Channel](https://discord.gg/PngbdqpFbt)
 - [Official FAQ](https://github.com/pion/webrtc/wiki/FAQ)
 - [Official Mailing List](https://groups.google.com/forum/#!forum/pion)
-- [Official Slack Channel](https://invite.slack.golangbridge.org/)
 - [Official Website](https://pion.ly)
 
 ## Examples
@@ -32,14 +32,25 @@
 
 ## Deployments
 
-- [ion-sfu](https://github.com/snapp-incubator/webrtc-charts/tree/main/charts/ion-sfu)
+<details>
+<summary> Old Deployments </summary>
+
+- [ion-sfu](https://github.com/ionorg/ion-sfu)
+
+</details>
 
 ## Tools
+
+<details>
+<summary> Old Tools </summary>
 
 - [gavv/webrtc-cli](https://github.com/gavv/webrtc-cli)
 - [proemergotech/chrome-webrtc-packet-log-parser](https://github.com/proemergotech/chrome-webrtc-packet-log-parser)
 
+</details>
+
 ## Talks
+
 - [AllThingsRTC 2019](https://www.youtube.com/watch?v=THBgcbI--ck)
 - [CommCon 2019](https://youtu.be/iEYLvkaNTLc?t=447)
 - [CommCon 2020](https://www.youtube.com/watch?v=3fRw4uKakLM)
@@ -55,60 +66,76 @@
 
 ## Media API
 
-- [~tslocum/harmony](https://gitlab.com/tslocum/harmony) - Voice and text communications platform
-- [adalkiran/distributed-inference](https://github.com/adalkiran/distributed-inference) - cross-language and distributed pipeline in deep learning/machine learning domain, using WebRTC and Redis Streams
 - [ahamlinman/hypcast](https://github.com/ahamlinman/hypcast) - A web-based multi-party live television streamer
 - [ashellunts/ffmpeg-to-webrtc](https://github.com/ashellunts/ffmpeg-to-webrtc) - Stream video from ffmpeg to web(rtc)
-- [deepch/RTSPtoWebRTC](https://github.com/deepch/RTSPtoWebRTC) - RTSP to WebRTC using Pion WebRTC
-- [dialup-inc/ascii](https://github.com/dialup-inc/ascii) - ASCII Roulette :: ascii art video chat on the cli
-- [fletcherist/webrtc-voice-chat](https://github.com/fletcherist/webtrc-voice-chat) - Group voice chat
+- [deepch/RTSPtoWeb](https://github.com/deepch/RTSPtoWeb) - RTSP to WebBrowser (including WebRTC)
 - [Galène](https://galene.org) - Videoconferencing server
 - [giongto35/cloud-game](https://github.com/giongto35/cloud-game) - Web-based Cloud Gaming service for Retro Games
 - [giongto35/cloud-morph](https://github.com/giongto35/cloud-morph) - Decentralized self-hosted Cloud Gaming
 - [glimesh/broadcast-box](https://github.com/glimesh/broadcast-box) - Broadcast in sub-second time from OBS or your browser
-- [GRVYDEV/Project-Lightspeed](https://github.com/GRVYDEV/Project-Lightspeed) - A self contained OBS -> FTL -> WebRTC live streaming server
-- [hakobera/go-ayame](https://github.com/hakobera/go-ayame) - Client library for WebRTC Signaling Server with Ayame
-- [Hexcord (mediaserver)](https://github.com/grantfayvor/hexcord-mediaserver) - A mediaserver for forwarding WebRTC streams to an RTMP endpoint using ffmpeg
 - [JetKVM](https://github.com/jetkvm/kvm) - Open source IP-KVM with WebRTC for remote access.
-- [kdevb0x/quikface](https://github.com/kdevb0x/quikface) - Cross platform video chat
 - [Kerberos.io](https://github.com/kerberos-io) - Scalable video analytics and video management platform
-- [livekit/livekit-server](https://github.com/livekit/livekit-server) - Scalable WebRTC SFU with native clients
-- [machinesworking/myhome](https://github.com/machinesworking/myhome) - Home grown security system
-- [manishiitg/ion-sfu-actions](https://github.com/manishiitg/ion-sfu-actions) - Useful utilites with ion-sdk-go on ion-sfu
-- [MixinNetwork/kraken](https://github.com/MixinNetwork/kraken) - High performance WebRTC SFU
-- [Monibuca/plugin-webrtc](https://github.com/Monibuca/plugin-webrtc) - WebRTC plugin for Monibuca
-- [mornin.fm](https://github.com/fox-one/mornin.fm) - Instant audio conferencing service
-- [mzyy94/ns-remote](https://github.com/mzyy94/ns-remote) - Play Nintendo Switch anyware
+- [livekit/livekit-server](https://github.com/livekit/livekit) - Scalable WebRTC SFU with native clients
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser (rabb.it clone) that runs in docker.
-- [oliverpool/tello-webrtc-fpv](https://github.com/oliverpool/tello-webrtc-fpv) - Tello drone control using WebRTC
-- [peer-calls/peer-calls](https://github.com/peer-calls/peer-calls) - a video conferencing solution. Version 4 ships with a complete server rewrite in Go and the built-in Selective Forwarding Unit is powered by `pion/webrtc`'s Media API. See it live at [peercalls.com/beta](https://peercalls.com/beta).
+- [MixinNetwork/kraken](https://github.com/MixinNetwork/kraken) - High performance WebRTC SFU
+- [peer-calls/peer-calls](https://github.com/peer-calls/peer-calls) - a video conferencing solution. Version 4 ships with a complete server rewrite in Go and the built-in Selective Forwarding Unit is powered by `pion/webrtc`'s Media API. See it live at [peercalls.com](https://peercalls.com/).
 - [pion/ion](https://github.com/pion/ion) - Real-Distributed RTC System with pure Go and Flutter
 - [pion/rtsp-bench](https://github.com/pion/rtsp-bench) - RTSP -> WebRTC Server that generates a CPU Usage report
 - [pion/rtwatch](https://github.com/pion/rtwatch) - Watch videos with friends using WebRTC
 - [pion/webrtc-voicemail](https://github.com/pion/webrtc-voicemail) - Create voicemails via WebRTC and Transcribe them.
 - [porjo/babelcast](https://github.com/porjo/babelcast) - A WebRTC audio broadcast server
+- [roboportal](https://github.com/roboportal) - Customizable robot control with onboard video streaming
+- [screego](https://github.com/screego/server) - Screen sharing for developers
+- [WHEP Load Tester](https://github.com/Softvelum/whep-load-tester) - Tool for testing WHEP WebRTC playback performance
+
+<details>
+<summary> Old Media API Projects </summary>
+
+- [~tslocum/harmony](https://gitlab.com/tslocum/harmony) - Voice and text communications platform
+- [adalkiran/distributed-inference](https://github.com/adalkiran/distributed-inference) - cross-language and distributed pipeline in deep learning/machine learning domain, using WebRTC and Redis Streams
+- [deepch/RTSPtoWebRTC](https://github.com/deepch/RTSPtoWebRTC) - RTSP to WebRTC using Pion WebRTC
+- [dialup-inc/ascii](https://github.com/dialup-inc/ascii) - ASCII Roulette :: ascii art video chat on the cli
+- [fletcherist/webrtc-voice-chat](https://github.com/fletcherist/webtrc-voice-chat) - Group voice chat
+- [GRVYDEV/Project-Lightspeed](https://github.com/GRVYDEV/Project-Lightspeed) - A self contained OBS -> FTL -> WebRTC live streaming server
+- [hakobera/go-ayame](https://github.com/hakobera/go-ayame) - Client library for WebRTC Signaling Server with Ayame
+- [Hexcord (mediaserver)](https://github.com/grantfayvor/hexcord-mediaserver) - A mediaserver for forwarding WebRTC streams to an RTMP endpoint using ffmpeg
+- [kdevb0x/quikface](https://github.com/kdevb0x/quikface) - Cross platform video chat
+- [machinesworking/myhome](https://github.com/machinesworking/myhome) - Home grown security system
+- [manishiitg/ion-sfu-actions](https://github.com/manishiitg/ion-sfu-actions) - Useful utilites with ion-sdk-go on ion-sfu
+- [Monibuca/plugin-webrtc](https://github.com/Monibuca/plugin-webrtc) - WebRTC plugin for Monibuca
+- [mornin.fm](https://github.com/fox-one/mornin.fm) - Instant audio conferencing service
+- [mzyy94/ns-remote](https://github.com/mzyy94/ns-remote) - Play Nintendo Switch anywhere
+- [oliverpool/tello-webrtc-fpv](https://github.com/oliverpool/tello-webrtc-fpv) - Tello drone control using WebRTC
 - [porjo/mumblet](https://github.com/porjo/mumblet) - Web-based Mumble client
 - [Ragnar-H/TelloGo](https://github.com/Ragnar-H/TelloGo) - Tello on the web via WebRTC
 - [ReolinkCameraAPI/reolinkapigo](https://github.com/ReolinkCameraAPI/reolinkapigo) - Reolink camera api in Go
-- [roboportal](https://github.com/roboportal) - Customizable robot control with onboard video streaming
 - [rviscarra/webrtc-remote-screen](https://github.com/rviscarra/webrtc-remote-screen) - Stream a remote desktop screen directly to your browser
 - [rviscarra/webrtc-speech-to-text](https://github.com/rviscarra/webrtc-speech-to-text) - Speech transcription on the browser using WebRTC and Google Speech
-- [screego](https://github.com/screego/server) - Screen sharing for developers
 - [sean-der/pion-ulaw-player](https://github.com/sean-der/pion-ulaw-player) - Send ulaw encoded audio from Pion to a WebRTC client in the browser
 - [sean-der/rtmp-to-webrtc](https://github.com/sean-der/rtmp-to-webrtc) - A RTMP server that publishes to WebRTC
 - [sethkimmel3/roundtable.audio](https://github.com/sethkimmel3/roundtable.audio) - Web app for hosting live, moderator-decentralized audio chat
 - [snapp-incubator/ghodrat](https://github.com/snapp-incubator/ghodrat) - WebRTC media server stress testing tool
-- [WHEP Load Tester](https://github.com/Softvelum/whep-load-tester) - Tool for testing WHEP WebRTC playback performance
 - [zyberzero/secure-videoconference](https://github.com/zyberzero/secure-videoconference) - Video conference system where the user is identified by Bank ID
+
+</details>
 
 ## DataChannel
 
-- [krisapa/peerbeam](https://github.com/krisapa/peerbeam) - Fast and secure p2p file transfer powered by WebRTC 🚀
-- [ailabstw/webrtc-socket-proxy](https://github.com/ailabstw/webrtc-socket-proxy) - Peer-to-peer TCP socket proxy using WebRTC
 - [anacrolix/torrent](https://github.com/anacrolix/torrent/) - Full-featured BitTorrent client package and utilities
-- [Antonito/gfile](https://github.com/Antonito/gfile) - Direct file transfer over WebRTC
 - [atotto/mibot](https://github.com/atotto/mibot) - Home Rover Robot control
 - [CortexFoundation/CortexTheseus](https://github.com/CortexFoundation/CortexTheseus) - AI on Blockchain, Official Golang implementation
+- [krisapa/peerbeam](https://github.com/krisapa/peerbeam) - Fast and secure p2p file transfer powered by WebRTC 🚀
+- [peer-calls/peer-calls](https://github.com/peer-calls/peer-calls) - Video conferencing solution. Version 4 ships with a complete server rewrite in Go. Chat messages and file sharing is powered by `pion/webrtc`'s DataChannel API when the SFU is enabled. See it live [here](https://peercalls.com/beta).
+- [PiterWeb/LibreRemotePlay](https://github.com/PiterWeb/LibreRemotePlay) - Steam RemotePlay Alternative powered by P2P and the Web
+- [saljam/webwormhole](https://github.com/saljam/webwormhole) - Peer authenticated WebRTC
+- [snowflake.torproject.org](https://snowflake.torproject.org/) - Snowflake allows people from all over the world to access censored websites and applications
+- [tuzig/webexec](https://github.com/tuzig/webexec) - WebRTC server for executing command over pseudo tty and piping it’s stdin & out over data channels
+
+<details>
+<summary> Old DataChannel Projects </summary>
+
+- [ailabstw/webrtc-socket-proxy](https://github.com/ailabstw/webrtc-socket-proxy) - Peer-to-peer TCP socket proxy using WebRTC
+- [Antonito/gfile](https://github.com/Antonito/gfile) - Direct file transfer over WebRTC
 - [cretz/webrtc-ipfs-signaling](https://github.com/cretz/webrtc-ipfs-signaling) - Tech demo using JS-IPFS to do signaling for WebRTC
 - [decentraland/webrtc-broker](https://github.com/decentraland/webrtc-broker) - WebRTC message broker
 - [duality-solutions/web-bridge](https://github.com/duality-solutions/web-bridge) - Connecting HTTP servers and clients on disparate networks using WebRTC and blockchain signaling
@@ -120,19 +147,16 @@
 - [mosaicnetworks/babble](https://github.com/mosaicnetworks/babble) - Distributed Consensus Middleware
 - [muka/peerjs-go](https://github.com/muka/peerjs-go) - PeerJS port to Go. Enables simple p2p via HTTP comms between web browser and IoT apps.
 - [nobonobo/ssh-p2p](https://github.com/nobonobo/ssh-p2p) - SSH p2p tunneling server and client
-- [peer-calls/peer-calls](https://github.com/peer-calls/peer-calls) - Video conferencing solution. Version 4 ships with a complete server rewrite in Go. Chat messages and file sharing is powered by `pion/webrtc`'s DataChannel API when the SFU is enabled. See it live [here](https://peercalls.com/beta).
 - [peterq/pan-light](https://github.com/peterq/pan-light) - Network disk client
-- [PiterWeb/LibreRemotePlay](https://github.com/PiterWeb/LibreRemotePlay) - Steam RemotePlay Alternative powered by P2P and the Web
 - [rtctunnel/rtctunnel](https://github.com/rtctunnel/rtctunnel) - Network tunnels over WebRTC
-- [saljam/webwormhole](https://github.com/saljam/webwormhole) - Peer authenticated WebRTC
 - [sean-der/pion-webrtc-shared-socket](https://github.com/Sean-Der/pion-webrtc-shared-socket) - Use Pion WebRTC with a shared socket. Allows non-WebRTC and WebRTC over the same socket.
 - [snaka/go-whatsmyip](https://github.com/snaka/go-whatsmyip) - Discover your public IP address
-- [snowflake.torproject.org](https://snowflake.torproject.org/) - Snowflake allows people from all over the world to access censored websites and applications
 - [szpnygo/gtc](https://github.com/szpnygo/gtc) - gtc is a terminal chat app, using pion WebRTC datachannel.
 - [takutakahashi/wg-connect](https://github.com/takutakahashi/wg-connect) - Wireguard connect server using UDP hole punching
 - [termbacktime/termbacktime](https://github.com/termbacktime/termbacktime) - Terminal recording and playback
 - [tmitchel/workspace-sync](https://github.com/tmitchel/workspace-sync) - Tool that allows you to write code in one place and automatically keep a remote copy of the code in sync
-- [tuzig/webexec](https://github.com/tuzig/webexec) - WebRTC server for executing command over pseudo tty and piping it’s stdin & out over data channels
+
+</details>
 
 ## Other APIs
 - [aler9/rtsp-simple-server](https://github.com/aler9/rtsp-simple-server) - Ready-to-use RTSP / RTMP / LL-HLS server and proxy that allows to read, publish and proxy video and audio streams
@@ -145,6 +169,10 @@
 
 - [Université de Paris](https://u-paris.fr/)
 - [Sorbonne Université](https://www.sorbonne-universite.fr/)
+
+# Governments using Pion
+
+- [The French government](https://archive.ph/cgarf) (archived from [The Times](https://www.thetimes.com/business/technology/article/france-replace-us-video-conferencing-with-visio-gssvj6cgc))
 
 # Companies Using Pion
 - [0x](https://0x.org/)
@@ -162,7 +190,6 @@
 - [Decentraland](https://github.com/decentraland/communications-server-go)
 - [Duality Blockchain Solutions](https://github.com/duality-solutions/web-bridge)
 - [ElevenLabs](https://elevenlabs.io)
-- [Eleventh Hour](https://www.eleventhhour.co.uk)
 - [eToro](https://www.etoro.com)
 - [Fanatics](https://www.fanatics.com)
 - [Fox.ONE](https://github.com/fox-one/mornin.fm)
@@ -177,7 +204,7 @@
 - [Last Epoch](https://lastepoch.com)
 - [Linktree](https://linktr.ee)
 - [LiveKit](https://livekit.io)
-- [Lokal](https://www.lokalapp.com)
+- [Lokal](https://www.lokalapps.com)
 - [Match Group](https://mtch.com)
 - [Midjourney](https://www.midjourney.com)
 - [Mosaic Networks](https://github.com/mosaicnetworks/babble)
@@ -191,7 +218,6 @@
 - [Patreon](https://www.patreon.com)
 - [PEL](https://www.pel.com.pk)
 - [PGA](https://www.pga.com)
-- [Portola](https://www.portolalabs.com)
 - [PrizePicks](https://www.prizepicks.com)
 - [Procore](https://www.procore.com)
 - [RemoteMonster](https://github.com/RemoteMonster/remon-obs-lib)
@@ -206,15 +232,12 @@
 - [Tesla](https://www.tesla.com)
 - [ThredUp](https://www.thredup.com)
 - [Tinder](https://www.tinder.com)
+- [Tolans](https://www.tolans.com)
 - [Upwork](https://www.upwork.com)
 - [Vimeo](https://vimeo.com)
 - [Walmart](https://www.walmart.com)
 - [xAI](https://x.ai)
 - [Yous](https://yous.ai/)
-
-# Governments using Pion
-
-- [The French government](https://www.thetimes.com/business/technology/article/france-replace-us-video-conferencing-with-visio-gssvj6cgc)
 
 # Contribute
 
