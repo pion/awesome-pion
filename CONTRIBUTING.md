@@ -2,12 +2,11 @@
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- Ensure all projects are valid. If not, please move them to the collapsible "old" section.
+- Verify that the CI passes.
+- Please be respectful to maintainers and reviewers during the review process!
 
 Thank you for your suggestions!
-
 
 ## Updating your PR
 
