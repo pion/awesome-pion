@@ -141,6 +141,11 @@
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - A Wireguard-based VPN which transports datagrams over an `pion/ice` connection.
 - [stv0g/cunicu](https://codeberg.org/cunicu) - Another Wireguard-based VPN which transports datagrams over an `pion/ice` connection.
 
+# Universities using Pion
+
+- [Université de Paris](https://u-paris.fr/)
+- [Sorbonne Université](https://www.sorbonne-universite.fr/)
+
 # Companies Using Pion
 - [0x](https://0x.org/)
 - [100ms](https://www.100ms.live/)
