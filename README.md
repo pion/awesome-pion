@@ -212,6 +212,10 @@
 - [xAI](https://x.ai)
 - [Yous](https://yous.ai/)
 
+# Governemnts using Pion
+
+- [The French governemnt](https://www.thetimes.com/business/technology/article/france-replace-us-video-conferencing-with-visio-gssvj6cgc)
+
 # Contribute
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
