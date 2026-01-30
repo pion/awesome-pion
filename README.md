@@ -103,7 +103,6 @@
 
 ## DataChannel
 
-- [raphadam/pleer](https://github.com/raphadam/pleer) - Securely forward local ports over the internet using WebRTC
 - [6b70/peerbeam](https://github.com/6b70/peerbeam) - Fast and secure p2p file transfer powered by WebRTC 🚀
 - [Antonito/gfile](https://github.com/Antonito/gfile) - Direct file transfer over WebRTC
 - [ailabstw/webrtc-socket-proxy](https://github.com/ailabstw/webrtc-socket-proxy) - Peer-to-peer TCP socket proxy using WebRTC
@@ -138,7 +137,7 @@
 ## Other APIs
 - [aler9/rtsp-simple-server](https://github.com/aler9/rtsp-simple-server) - Ready-to-use RTSP / RTMP / LL-HLS server and proxy that allows to read, publish and proxy video and audio streams
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - A Wireguard-based VPN which transports datagrams over an `pion/ice` connection.
-- [stv0g/cunicu](https://github.com/stv0g/cunicu) - Another Wireguard-based VPN which transports datagrams over an `pion/ice` connection.
+- [stv0g/cunicu](https://codeberg.org/cunicu) - Another Wireguard-based VPN which transports datagrams over an `pion/ice` connection.
 - [l7mp/stunner](https://github.com/l7mp/stunner) - A Kubernetes ingress gateway for WebRTC.
 - [everycastlabs/iceperf-agent](https://github.com/everycastlabs/iceperf-agent) - test and compare the performance of TURN networks
 
@@ -157,7 +156,6 @@
 - [Mosaic Networks](https://github.com/mosaicnetworks/babble)
 - [Muxable](https://muxable.com/)
 - [Neverinstall](https://neverinstall.com)
-- [Piepacker](https://piepacker.com)
 - [RemoteMonster](https://github.com/RemoteMonster/remon-obs-lib)
 - [RingCentral](https://github.com/ringcentral/ringcentral-softphone-go)
 - [Tandem](https://tandem.chat)
