@@ -52,15 +52,31 @@
 ## Talks
 
 - [AllThingsRTC 2019](https://www.youtube.com/watch?v=THBgcbI--ck)
+- [ClueCon 2021 (Season 9)](https://youtu.be/vSHcBW-WqFI)
+- [ClueCon 2026 (Season 15)](https://youtu.be/cKzAt8Xoy4U)
 - [CommCon 2019](https://youtu.be/iEYLvkaNTLc?t=447)
 - [CommCon 2020](https://www.youtube.com/watch?v=3fRw4uKakLM)
+- [Conf42 2021](https://youtu.be/4kdU9_a-gII)
+- [Daily 2024 (Voice AI Meetup)](https://www.youtube.com/watch?v=AafK5g-aS9w&t=1394s)
+- [Daily 2025 (WebRTC and AI)](https://youtu.be/l_rTdVuA4Lw)
+- [Demuxed 2020 (WebRTC does what?)](https://www.youtube.com/watch?v=rQJZtfXLj7U)
+- [FLOSS Weekly 2024](https://youtu.be/z7lxcmk4cAo)
 - [Go Time Podcast](https://changelog.com/gotime/127)
 - [GopherCon 2019](https://www.youtube.com/watch?v=Syt7TnikBfk)
+- [GopherCon 2021](https://youtu.be/_g5mC9R9Jws)
 - [KrankyGeek 2019](https://www.youtube.com/watch?v=BYtNI4esj1I)
+- [London Video Technology 2021](https://www.youtube.com/watch?v=jIrUHTzFLE8)
 - [PNW Remote Go Meetup](https://www.youtube.com/watch?v=FdgoOrJH8ok&feature=youtu.be&t=989)
 - [Programming Throwdown](https://www.programmingthrowdown.com/episodes/episode-95-webrtc-with-sean-dubois/)
 - [Seattle Video Tech 2018](https://www.youtube.com/watch?v=ezZYd5NsxE4)
+- [SF Video Technology 2021 (What does WebRTC get me?)](https://youtu.be/s4zBbyNgaMc)
+- [VapiCon 2025](https://www.youtube.com/watch?v=iwaELRQKGnk)
 - [WebRTC Live](https://vimeo.com/380076363)
+- [WebRTC.ventures 2019 (Pion WebRTC)](https://youtu.be/RZEzKLKrdQI)
+- [WebRTC.ventures 2020 (WebRTC for the Curious)](https://www.youtube.com/watch?v=SMyua1t_isk)
+- [WebRTC.ventures 2022 (What's new with Pion?)](https://youtu.be/IOzGpNBeACU)
+- [WebRTC.ventures 2024 (Next Gen Interactive Broadcasting with WebRTC & OBS)](https://youtu.be/9vtuxGR4Lro)
+- [webrtcH4cKS 2025 (OpenAI and WebRTC)](https://youtu.be/HVsvNGV_gg8)
 
 # Projects Using Pion
 
