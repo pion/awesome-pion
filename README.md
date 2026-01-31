@@ -12,8 +12,9 @@
   - [Media API](#media-api)
   - [DataChannel](#datachannel)
   - [Other APIs](#other-apis)
+- [Universities using Pion](#universities-using-pion)
+- [Governments using Pion](#governments-using-pion)
 - [Companies Using Pion](#companies-using-pion)
-
 
 # Resources
 
