@@ -105,6 +105,7 @@
 - [roboportal](https://github.com/roboportal) - Customizable robot control with onboard video streaming
 - [screego](https://github.com/screego/server) - Screen sharing for developers
 - [WHEP Load Tester](https://github.com/Softvelum/whep-load-tester) - Tool for testing WHEP WebRTC playback performance
+- [whip2wowza](https://github.com/mpisat/whip2wowza) - Adds WHIP, STUN/TURN and IPv6 support to Wowza Streaming Engine's WebRTC ingest
 
 <details>
 <summary> Old Media API Projects </summary>
