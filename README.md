@@ -42,6 +42,8 @@
 
 ## Tools
 
+- [1mb-dev/natcheck](https://github.com/1mb-dev/natcheck) - NAT type diagnosis CLI built on pion/stun. Reports a WebRTC direct-P2P forecast.
+
 <details>
 <summary> Old Tools </summary>
 
