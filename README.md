@@ -106,7 +106,7 @@
 - [porjo/babelcast](https://github.com/porjo/babelcast) - A WebRTC audio broadcast server
 - [roboportal](https://github.com/roboportal) - Customizable robot control with onboard video streaming
 - [screego](https://github.com/screego/server) - Screen sharing for developers
-- [VoiceBlender](https://voiceblender.org/) - Bridges SIP, WebRTC, and Websocket voice with multi-party audio mixing and REST and Websocket APIs, allowing you to build any voice or voice AI application
+- [VoiceBlender](https://github.com/VoiceBlender/voiceblender) - Bridges SIP, WebRTC, and Websocket voice with multi-party audio mixing and REST and Websocket APIs, allowing you to build any voice or voice AI application
 - [WHEP Load Tester](https://github.com/Softvelum/whep-load-tester) - Tool for testing WHEP WebRTC playback performance
 - [whip2wowza](https://github.com/mpisat/whip2wowza) - Adds WHIP, STUN/TURN and IPv6 support to Wowza Streaming Engine's WebRTC ingest
 
