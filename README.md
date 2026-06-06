@@ -181,7 +181,7 @@
 </details>
 
 ## Other APIs
-- [aler9/rtsp-simple-server](https://github.com/aler9/rtsp-simple-server) - Ready-to-use RTSP / RTMP / LL-HLS server and proxy that allows to read, publish and proxy video and audio streams
+- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use Media-over-QUIC / SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams
 - [everycastlabs/iceperf-agent](https://github.com/everycastlabs/iceperf-agent) - test and compare the performance of TURN networks
 - [l7mp/stunner](https://github.com/l7mp/stunner) - A Kubernetes ingress gateway for WebRTC.
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - A Wireguard-based VPN which transports datagrams over an `pion/ice` connection.
