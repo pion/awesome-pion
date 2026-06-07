@@ -186,6 +186,7 @@
 - [l7mp/stunner](https://github.com/l7mp/stunner) - A Kubernetes ingress gateway for WebRTC.
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - A Wireguard-based VPN which transports datagrams over an `pion/ice` connection.
 - [stv0g/cunicu](https://codeberg.org/cunicu) - Another Wireguard-based VPN which transports datagrams over an `pion/ice` connection.
+- [emiago/diago](https://github.com/emiago/diago) - Library for building VOIP solutions in GO
 
 # Universities using Pion
 
