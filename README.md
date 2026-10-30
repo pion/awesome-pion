@@ -279,6 +279,7 @@
 - [NBC Sports](https://www.nbcsports.com)
 - [Neverinstall](https://neverinstall.com)
 - [Nextdoor](https://nextdoor.com)
+- [Nvidia](https://www.nvidia.com)
 - [OpenAI](https://openai.com)
 - [Oracle](https://www.oracle.com)
 - [Outside](https://www.outsideonline.com)
