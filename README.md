@@ -223,6 +223,7 @@
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - A Wireguard-based VPN which transports datagrams over an `pion/ice` connection.
 - [plgd-dev/go-coap](https://github.com/plgd-dev/go-coap) - CoAP client and server library using Pion DTLS
 - [Psiphon-Labs/psiphon-tunnel-core](https://github.com/Psiphon-Labs/psiphon-tunnel-core) - Censorship-circumvention networking library with Pion-based WebRTC, DataChannel, STUN, SCTP, and DTLS components
+- [SenseUnit/dtlspipe](https://github.com/SenseUnit/dtlspipe) - Generic DTLS wrapper for UDP sessions
 - [strukturag/nextcloud-spreed-signaling](https://github.com/strukturag/nextcloud-spreed-signaling) - Signaling server using Pion ICE and SDP
 - [stv0g/cunicu](https://codeberg.org/cunicu) - Another Wireguard-based VPN which transports datagrams over an `pion/ice` connection.
 - [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) - RTSP camera security tool using Pion RTP
