@@ -126,6 +126,7 @@
 - [VoiceBlender](https://github.com/VoiceBlender/voiceblender) - Bridges SIP, WebRTC, and Websocket voice with multi-party audio mixing and REST and Websocket APIs, allowing you to build any voice or voice AI application
 - [WHEP Load Tester](https://github.com/Softvelum/whep-load-tester) - Tool for testing WHEP WebRTC playback performance
 - [whip2wowza](https://github.com/mpisat/whip2wowza) - Adds WHIP, STUN/TURN and IPv6 support to Wowza Streaming Engine's WebRTC ingest
+- [whispem/ambivox](https://github.com/whispem/ambivox) - Self-hosted voice calls with live translation; speech recognition, translation and synthesis run locally
 - [walkie-talkie](https://github.com/Kesha005/wlk_tlk) -  Simple half-duplex walkie talkie built on Pion WebRTC
 
 
