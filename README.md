@@ -97,6 +97,7 @@
 - [giongto35/cloud-game](https://github.com/giongto35/cloud-game) - Web-based Cloud Gaming service for Retro Games
 - [giongto35/cloud-morph](https://github.com/giongto35/cloud-morph) - Decentralized self-hosted Cloud Gaming
 - [glimesh/broadcast-box](https://github.com/glimesh/broadcast-box) - Broadcast in sub-second time from OBS or your browser
+- [gojargo/jargo](https://github.com/gojargo/jargo) - Framework for real-time voice AI agents over Pion WebRTC, WebSocket and telephony, with streaming STT, LLM and TTS pipelines
 - [google/android-cuttlefish](https://github.com/google/android-cuttlefish) - Android virtual device platform with a Pion-powered WebRTC client
 - [gotd/td](https://github.com/gotd/td) - Telegram client library with Pion-powered calls and group calls
 - [GRVYDEV/S.A.T.U.R.D.A.Y](https://github.com/GRVYDEV/S.A.T.U.R.D.A.Y) - Vocal computing and AI toolbox built with Pion WebRTC
